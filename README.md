@@ -12,5 +12,3 @@ Achieve your fitness goals with a fully personalized experience! This web app pr
 
 💡 Why This Project?
 Many fitness apps provide generic plans, but one-size-fits-all doesn’t work for everyone! This system takes a more individualized approach, ensuring your workout and nutrition plans align with your body type, goals, and lifestyle.
-
-⚡ Get ready to transf
